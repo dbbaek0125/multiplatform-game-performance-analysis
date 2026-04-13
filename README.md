@@ -1,4 +1,4 @@
-# Statistical Analysis of Video Game Trends
+# Do Multiplatform Games Perform Better?
 
 ## Overview
 This project analyzes a dataset of video games (2004–2010) to study platform distribution and review score trends using statistical inference.
