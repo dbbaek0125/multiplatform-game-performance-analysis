@@ -25,4 +25,5 @@ We investigate whether multiplatform availability is associated with better mark
 - Jupyter Notebook
 
 ## Key Insight
-Multiplatform games account for roughly 50% of the dataset, but overall review scores remain below the industry benchmark of 75. This suggests that wider platform availability does not necessarily lead to better performance.
+Multiplatform games account for roughly 50% of the dataset, but overall review scores remain below the industry benchmark of 75. 
+This suggests that wider platform availability does not necessarily lead to better performance.
