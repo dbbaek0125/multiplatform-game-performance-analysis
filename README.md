@@ -3,6 +3,8 @@
 ## Overview
 This project analyzes a dataset of video games (2004–2010) to study platform distribution and review score trends using statistical inference.
 
+We investigate whether multiplatform availability is associated with better market reach and performance.
+
 ## Key Questions
 - What proportion of video games are multiplatform?
 - What is a reasonable range for this proportion?
